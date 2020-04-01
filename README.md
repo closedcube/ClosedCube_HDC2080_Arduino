@@ -18,7 +18,7 @@ These are ClosedCube breakout boards for Texas Instruments HDC2080 Low-Power Hum
 
 **Manufacturer Part No:**
 
-- B023_HDC2080_DF13
+- B023_HDC2080_DF13 (DF13 Series boards)
 - B023_HDC2080_PH (PH Series boards)
 - B023_HDC2080_1MM (1mm Series boards)
 
@@ -59,4 +59,4 @@ TBD
 
 
 
-Updated: Wednesday, 01 April 2020 at 21:38:51 GMT-00:00
+Updated: Wednesday, 01 April 2020 at 21:42:37 GMT-00:00
