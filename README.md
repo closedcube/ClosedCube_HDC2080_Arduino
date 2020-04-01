@@ -2,9 +2,7 @@ ClosedCube Arduino Library for
 ClosedCube HDC2080 Low-Power Humidity and Temperature Digital Sensor
 ===========================================================================
 
-This is a ClosedCube breakout boards for Texas Instruments HDC2080 Low-Power Humidity and Temperature Digital Sensor
-
-The board^ populated with 4-Way DIP switch that allows to change I2C address and turn off/on pull-up resistors if more than one sensor board required on the same I2C bus.
+These are ClosedCube breakout boards for Texas Instruments HDC2080 Low-Power Humidity and Temperature Digital Sensor.
 
 **Features:**
 
@@ -16,7 +14,7 @@ The board^ populated with 4-Way DIP switch that allows to change I2C address and
 - Supply voltage range: 1.62V to 3.6 V
 - I2C address^ either 0x40 or 0x41
 
-^ - DIP switch availanle on B023_HDC2080_DF13 board
+^ - B023_HDC2080_DF13 board has populated with 4-Way DIP switch that allows to change I2C address and turn off/on pull-up resistors if more than one sensor board required on the same I2C bus.
 
 **Manufacturer Part No:**
 
@@ -61,4 +59,4 @@ TBD
 
 
 
-Updated: Wednesday, 01 April 2020 at 21:37:53 GMT-00:00
+Updated: Wednesday, 01 April 2020 at 21:38:51 GMT-00:00
