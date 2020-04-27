@@ -1,7 +1,7 @@
 /*
 
 Arduino library for Arduino library for Texas Instruments HDC2080 ±2% Ultra-Low Powered Digital Humidity and Temperature Sensor
-version 2020.4.22
+version 2020.4.27
 
 ---
 
